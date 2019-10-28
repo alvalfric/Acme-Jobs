@@ -29,8 +29,6 @@
 
     drop table if exists `provider`;
 
-    drop table if exists `shout`;
-
     drop table if exists `user_account`;
 
     drop table if exists `hibernate_sequence`;
