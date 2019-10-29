@@ -18,11 +18,7 @@ import lombok.Setter;
 @Setter
 public class Shout extends DomainEntity {
 
-	// Serialisation identifier ----------------------------------------
-
 	private static final long	serialVersionUID	= 1L;
-
-	// Atributes -------------------------------------------------------
 
 	@NotBlank
 	private String				author;
@@ -33,4 +29,5 @@ public class Shout extends DomainEntity {
 	@Temporal(TemporalType.TIMESTAMP)
 	@Past
 	private Date				moment;
+
 }

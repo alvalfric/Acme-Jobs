@@ -10,14 +10,14 @@
 
 # master.banner.welcome #######################################################
 
-master.banner.background = #FFE97F 
+master.banner.background = #3F51B5 
+
 
 # master.welcome ##############################################################
 
 master.welcome.title = Welcome!
 master.welcome.text = \
-	Welcome to Starter Project! Never before has it bee easier to get your \
-	project up and running!
+	Welcome to Acme Jobs! Never before has it bee easier to get a Job!
 
 # master.menu #################################################################
 
@@ -29,10 +29,29 @@ master.menu.sign-out = Sign out
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anonymous
-master.menu.anonymous.favourite-link = Favourite link
 master.menu.anonymous.alvaro-link = Alvaro's link
-master.menu.anonymous.list-shouts = List shouts
-master.menu.anonymous.create-shout = Shout!
+master.menu.anonymous.ivan-link = Iván's link
+master.menu.anonymous.antonio-link = Antonio's link
+master.menu.anonymous.josescrue-favourite-link = José's link
+master.menu.anonymous.abdel-link = Abdel's link
+
+master.menu.anonymous.shout.list = List Shouts
+master.menu.anonymous.shout.create = Shout!
+
+master.menu.anonymous.cardenas-bulletin.list = CardenasBulletin List
+master.menu.anonymous.cardenas-bulletin.create = CardenasBulletin Create
+
+master.menu.anonymous.chellik-bulletin.list = List ChellikBulletin 
+master.menu.anonymous.chellik-bulletin.create = New ChellikBulletin!
+
+master.menu.anonymous.rosado-bulletin.list = List RosadoBulletins
+master.menu.anonymous.rosado-bulletin.create = Create RosadoBulletin
+
+master.menu.anonymous.alferez-bulletin.list = Alferez's Bulletin List
+master.menu.anonymous.alferez-bulletin.create = Alferez's Bulletin Create
+
+master.menu.anonymous.escobar-bulletin.list = List EscobarBulletins
+master.menu.anonymous.escobar-bulletin.create = New EscobarBulletin
 
 # master.menu.administrator ###################################################
 
@@ -73,15 +92,15 @@ master.footer.label.spanish = Spanish
 
 # master.company ##############################################################
 
-master.company.title = La compañía
+master.company.title = Acme Jobs
 master.company.text = \
-	Starter Project, Inc. is a fictitious fictitious company that provides a \
+	Acme Jobs, Inc. is a fictitious fictitious company that provides a \
 	starter project for the students of the Design and Testing subject of the \
 	Software Engineering Curriculum of the University of Sevilla.
-master.company.name = Starter Project, Inc.
-master.company.address = Number Street, City, State, Country
+master.company.name = Acme Jobs, Inc.
+master.company.address = Reina Mercedes 12,Sevilla, Andalucía, España
 master.company.phone = +000 123 456
-master.company.email = contact@acme.com
+master.company.email = ivacarmen@alum.us.es
 
 # master.license ##############################################################
 

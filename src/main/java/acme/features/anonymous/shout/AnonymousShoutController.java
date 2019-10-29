@@ -20,7 +20,6 @@ public class AnonymousShoutController extends AbstractController<Anonymous, Shou
 
 	@Autowired
 	private AnonymousShoutListService	listService;
-
 	@Autowired
 	private AnonymousShoutCreateService	createService;
 

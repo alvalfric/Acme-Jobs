@@ -10,14 +10,13 @@
 
 # master.banner.welcome #######################################################
 
-master.banner.background = #FFE97F 
+master.banner.background = #3F51B5
 
 ﻿# master.welcome ##############################################################
 
 master.welcome.title = ¡Bienvenidos!
 master.welcome.text = \
-	Bienvenidos a Acme Stater!  Nunca antes ha sido tan sencillo desarrollar un \
-	proyecto y hacerlo funcionar.
+	Bienvenidos a Acme Jobs!  Nunca antes ha sido tan sencillo buscar trabajo!
 
 # master.menu #################################################################
 
@@ -29,10 +28,29 @@ master.menu.sign-out = Salir
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
-master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.ivan-link = Enlace favorito de Iván
 master.menu.anonymous.alvaro-link = Enlace favorito de Alvaro
-master.menu.anonymous.list-shouts = Lista de gritos
-master.menu.anonymous.create-shout = ¡Grita!
+master.menu.anonymous.antonio-link = Enlace favorito de Antonio
+master.menu.anonymous.josescrue-favourite-link = Enlace favorito de José
+master.menu.anonymous.abdel-link = Enlace favorito de Abdel
+
+master.menu.anonymous.shout.list = Lista de gritos
+master.menu.anonymous.shout.create = Gritar
+
+master.menu.anonymous.cardenas-bulletin.list = CardenasBulletin Lista
+master.menu.anonymous.cardenas-bulletin.create = CardenasBulletin Crear
+
+master.menu.anonymous.chellik-bulletin.list = Lista ChellikBulletins
+master.menu.anonymous.chellik-bulletin.create = Nuevo ChellikBulletin
+
+master.menu.anonymous.rosado-bulletin.list = Lista de RosadoBulletins
+master.menu.anonymous.rosado-bulletin.create = Crear RosadoBulletin
+
+master.menu.anonymous.alferez-bulletin.list = Lista de AlferezBulletin
+master.menu.anonymous.alferez-bulletin.create = Crear AlferezBulletin
+
+master.menu.anonymous.escobar-bulletin.list = Lista de EscobarBulletins
+master.menu.anonymous.escobar-bulletin.create = Nuevo EscobarBulletin
 
 # master.menu.administrator ###################################################
 
@@ -59,6 +77,8 @@ master.menu.user-account.become-provider = Hazte proveedor
 master.menu.user-account.consumer = Datos de consumidor
 master.menu.user-account.become-consumer = Hazte consumidor
 
+
+
 ﻿# master.footer ###############################################################
 
 master.footer.title.about = Nosotros
@@ -75,13 +95,13 @@ master.footer.label.spanish = Español
 
 master.company.title = La compañía
 master.company.text = \
-	Starter Project, Inc. es una compañía fictícia que proporciona un proyecto \
+	Acme Jobs, Inc. es una compañía fictícia que proporciona un proyecto \
 	plantilla para los estudiantes de la asignatura Diseño y Pruebas, en el Grado \
 	en Ingeniería del Software de la Universidad de Sevilla.
-master.company.name = Starter Project, Inc.
-master.company.address = Calle, número, Ciudad, Estado, País
+master.company.name = Acme Jobs, Inc.
+master.company.address = Reina Mercedes, 12, Sevilla, Andalucía, España
 master.company.phone = +000 123 456
-master.company.email = contact@acme.com
+master.company.email = ivacarmen@alum.us.es
 
 # master.license ##############################################################
 
@@ -94,4 +114,3 @@ master.license.text = \
 	durante un máximo de 31 días y "language" para almacenar sus preferencias de \
 	lenguage.  Además, almacenamos un ítem llamado "returnStack" en el almacenamiento \
 	local de su navegador para saber dónde tienen que ir algunos botones.
-	
